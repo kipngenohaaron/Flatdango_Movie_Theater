@@ -10,7 +10,6 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Setup](#setup)
 - [Technologies used](#Technologiesused)
 - [Contacts Info](#ContactsInfo)
