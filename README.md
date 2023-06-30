@@ -11,6 +11,7 @@
 
 - [Features](#features)
 - [Setup](#setup)
+- [Development-requirement](#Development-requirement)
 - [Technologies used](#Technologiesused)
 - [Contacts Info](#ContactsInfo)
 - [License](#license)
@@ -21,6 +22,11 @@ The Flatdango Movie Theater provides the following features:
 
 - It also enables one to book a movie and shows the number of tickets remaining.Display a list of all animal names.
 
+## Development requirements
+- Visual studio code
+- Live server  extension
+- npm
+- json-sever
 
 ## Setup
 
