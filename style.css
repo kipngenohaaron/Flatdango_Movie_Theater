@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #movie-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  #movie-poster {
+    width: 200px;
+    height: auto;
+  }
+  
+  #buy-ticket-btn {
+    margin-top: 10px;
+  }
+  
+  .film {
+    cursor: pointer;
+  }
+  
+  .sold-out {
+    color: red;
+  }
+  
